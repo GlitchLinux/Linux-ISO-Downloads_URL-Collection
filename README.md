@@ -8,6 +8,7 @@ Welcome to the Linux ISO Downloads repository! This repository serves as a curat
 LINUX ISO DOWNLOADS - LINKS COLLECTION
 
 DEBIAN 12
+
 https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-cinnamon.iso
 https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-gnome.iso
 https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-kde.iso
@@ -16,6 +17,7 @@ https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-1
 https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-xfce.iso
 
 DEBIAN 13
+
 https://cdimage.debian.org/cdimage/weekly-live-builds/amd64/iso-hybrid/debian-live-testing-amd64-cinnamon.iso
 https://cdimage.debian.org/cdimage/weekly-live-builds/amd64/iso-hybrid/debian-live-testing-amd64-gnome.iso
 https://cdimage.debian.org/cdimage/weekly-live-builds/amd64/iso-hybrid/debian-live-testing-amd64-kde.iso

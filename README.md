@@ -172,6 +172,7 @@ https://www.freedos.org/download/download/FD12CD.iso
 
 ALMA LINUX
 https://repo.almalinux.org/almalinux/8/isos/x86_64/AlmaLinux-8.5-x86_64-dvd1.iso
+
 ## Contributions
 
 Feel free to contribute to this repository by submitting pull requests with additional links or updates to existing ones. Please ensure all URLs are verified and up-to-date.
@@ -181,5 +182,3 @@ Feel free to contribute to this repository by submitting pull requests with addi
 This repository is provided for informational purposes and adheres to the licenses of the respective distributions. For any issues or licensing concerns, please refer to the official websites of the Linux distributions listed.
 
 ---
-
-You can customize this description to better fit your repository's purpose or include any additional information you find relevant.

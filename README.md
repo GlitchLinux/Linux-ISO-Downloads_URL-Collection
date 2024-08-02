@@ -7,6 +7,8 @@ Welcome to the Linux ISO Downloads repository! This repository serves as a curat
 
 LINUX ISO DOWNLOADS - LINKS COLLECTION
 
+Pastebin RAW text url: https://pastebin.com/raw/T42X6GCj
+
 DEBIAN 12
 
 https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.6.0-amd64-cinnamon.iso

@@ -107,6 +107,7 @@ https://download.fedoraproject.org/pub/fedora/linux/releases/38/Server/x86_64/is
 
 
 ARCH LINUX
+
 https://geo.mirror.pkgbuild.com/iso/2024.08.01/archlinux-2024.08.01-x86_64.iso
 
 

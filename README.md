@@ -172,8 +172,6 @@
 ## AlmaLinux
 - [AlmaLinux 8.5](https://repo.almalinux.org/almalinux/8/isos/x86_64/AlmaLinux-8.5-x86_64-dvd1.iso)
 
-Here are additional Linux distributions that are popular and might be missing from your list:
-
 ## Puppy Linux
 - [Puppy Linux 9.5](https://puppylinux.com/index.html#download)
 

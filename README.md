@@ -241,9 +241,6 @@
 ## Devuan
 - [Devuan 6.0](https://mirror.leaseweb.com/devuan/devuan_excalibur/installer-iso/devuan_excalibur_6.0-202406250952_amd64_desktop.iso)
 
-These additions cover a wide range of use cases and preferences, ensuring a comprehensive collection of Linux distributions.
-
-
 ## Contributions
 
 Feel free to contribute to this repository by submitting pull requests with additional links or updates to existing ones. Please ensure all URLs are verified and up-to-date.

@@ -241,7 +241,7 @@ Here are additional Linux distributions that are popular and might be missing fr
 - [Nitrux](https://nxos.org/download/)
 
 ## Devuan
-- [Devuan 4.0](https://www.devuan.org/get-devuan)
+- [Devuan 4.0](https://mirror.leaseweb.com/devuan/devuan_excalibur/installer-iso/devuan_excalibur_6.0-202406250952_amd64_desktop.iso)
 
 These additions cover a wide range of use cases and preferences, ensuring a comprehensive collection of Linux distributions.
 
